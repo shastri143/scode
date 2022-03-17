@@ -1,0 +1,2 @@
+# scode
+hello java
